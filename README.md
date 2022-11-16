@@ -1,2 +1,2 @@
 # refresh-rate-changer
- Register system hotkey to change refreshrate and lock windows
+ Register system hotkeys to change main display refresh rate and lock windows
